@@ -1,5 +1,5 @@
 # LearnTrack
-# LearnTrack
+
 LearnTrack - Student & Course Management System
 
 # Project Description
@@ -128,4 +128,4 @@ java com.airtribe.learntrack.ui.Menu
 * Enrollment connects Student and Course (Association)
 * Service classes handle business logic for entities
 * EnrollmentService depends on StudentService and CourseService
-* IdGenerator provides unique IDs using static methods
+
